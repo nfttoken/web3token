@@ -1,6 +1,5 @@
 web3.oychain.net网址导航 - 收集国内外优秀web3资源、灵感创意网站、Resources网站
 
-说明：
 
 ===
 ### 本项目是一个网址导航网站
@@ -31,6 +30,11 @@ Demo: [➡️ www.webstack.cc](https://webstack.cc)
 陆续有很多小伙伴使用这个主题制作了自己的导航网站，基于webstack或者使用webstack主题开发的项目，欢迎优秀项目互链。
 也欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 
 （入选标准：必须是webstack项目相关的网站）
+| 状态 | 网站名 | 网址 |
+| --- | --- | --- |
+| ✅已上线 | 广告人导航 - 广告没门 | [https://adnodoor.com/nav/](https://adnodoor.com/nav/) |
+
+
 
 
 
