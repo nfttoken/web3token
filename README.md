@@ -32,6 +32,7 @@ Demo: [➡️ www.webstack.cc](https://webstack.cc)
 （入选标准：必须是webstack项目相关的网站）
 | 状态 | 网站名 | 网址 |
 | --- | --- | --- |
+| ✅已上线 | 设计师网址导航 | [https://webstack.cc/](https://webstack.cc/) |
 | ✅已上线 | 广告人导航 - 广告没门 | [https://adnodoor.com/nav/](https://adnodoor.com/nav/) |
 
 
