@@ -5,11 +5,11 @@ web3.oychain.net网址导航 - 收集国内外优秀web3资源、灵感创意网
 ===
 ### 本项目是一个网址导航网站
 
-内容均由[viggo](https://www.viggoz.com)收集并整理。
+本项目前端UI及框架由[viggo](https://www.viggoz.com)制作。
 
 Demo: [➡️ www.webstack.cc](https://webstack.cc)
 
-本项目前端基于bootstrap前端框架开发，各后台及主题版本由广大网友提供。
+本项目前端基于bootstrap前端框架开发。
 
 感谢各位GitHub网友无私贡献🙏，具体使用方法请查看[viggo]和 https://webstack.cc 对应的开源说明文档！
 
